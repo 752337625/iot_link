@@ -1321,8 +1321,8 @@ importers:
         specifier: ^4.2.1
         version: 4.2.1
       tiny-svg:
-        specifier: ^3.1.3
-        version: 3.1.3
+        specifier: ^4.1.3
+        version: 4.1.3
     devDependencies:
       diagram-js:
         specifier: ^15.2.4
@@ -9803,6 +9803,10 @@ packages:
 
   tiny-svg@3.1.3:
     resolution: {integrity: sha512-9mwnPqXInRsBmH/DO6NMxBE++9LsqpVXQSSTZGc5bomoKKvL5OX/Hlotw7XVXP6XLRcHWIzZpxfovGqWKgCypQ==}
+
+  tiny-svg@4.1.3:
+    resolution: {integrity: sha512-OPXLrGkpdRxLBPV7RXkR9zFx6Zx5vXpHFnenaNhrLQbHxTdoU0T91nwFbIrAMiLr+XSpjt8S73qF7U9MP/Jhjg==}
+    engines: {node: '>= 16'}
 
   tinybench@2.9.0:
     resolution: {integrity: sha512-0+DUvqWMValLmha6lr4kD8iAMK1HzV0/aKnCtWb9v9641TnP/MFb7Pc2bxoxQjTXAErryXVgUOfv2YqNllqGeg==}
@@ -19897,6 +19901,8 @@ snapshots:
   tiny-emitter@2.1.0: {}
 
   tiny-svg@3.1.3: {}
+
+  tiny-svg@4.1.3: {}
 
   tinybench@2.9.0: {}
 
