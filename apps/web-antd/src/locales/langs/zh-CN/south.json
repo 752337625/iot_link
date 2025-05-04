@@ -1,0 +1,17 @@
+{
+  "system": {
+    "title": "南向设备",
+    "group": {
+      "title": "设备管理"
+    },
+    "device": {
+      "title": "监控分组"
+    },
+    "variable": {
+      "title": "变量配置"
+    },
+    "config": {
+      "title": "通信配置"
+    }
+  }
+}

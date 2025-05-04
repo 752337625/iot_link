@@ -1,0 +1,17 @@
+{
+  "system": {
+    "title": "日志监控",
+    "logvis": {
+      "title": "访问日志"
+    },
+    "logop": {
+      "title": "操作日志"
+    },
+    "logex": {
+      "title": "异常日志"
+    },
+    "logdiff": {
+      "title": "差异日志"
+    }
+  }
+}

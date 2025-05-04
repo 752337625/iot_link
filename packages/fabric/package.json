@@ -1,0 +1,33 @@
+{
+  "name": "@vben/fabric",
+  "version": "5.5.4",
+  "homepage": "https://github.com/vbenjs/vue-vben-admin",
+  "bugs": "https://github.com/vbenjs/vue-vben-admin/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbenjs/vue-vben-admin.git",
+    "directory": "packages/fabric"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "default": "./src/index.ts"
+    },
+    "./global": {
+      "types": "./global.d.ts"
+    }
+  },
+  "dependencies": {
+    "fabric": "^6.6.4",
+    "gifler": "^0.1.0",
+    "lit": "^3.2.1",
+    "lodash-es": "^4.17.21",
+    "mitt": "^3.0.1",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12"
+  }
+}

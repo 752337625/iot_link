@@ -1,0 +1,11 @@
+{
+  "system": {
+    "title": "驱动插件",
+    "manage": {
+      "title": "插件管理"
+    },
+    "template": {
+      "title": "模板管理"
+    }
+  }
+}

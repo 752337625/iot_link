@@ -1,0 +1,14 @@
+{
+  "2D": {
+    "title": "组态设计",
+    "chart": {
+      "title": "工作空间"
+    },
+    "materialLibrary": {
+      "title": "素材库"
+    },
+    "project": {
+      "title": "项目模板"
+    }
+  }
+}

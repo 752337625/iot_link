@@ -1,0 +1,65 @@
+{
+  "name": "@vben/web-antd",
+  "version": "5.5.5",
+  "homepage": "https://vben.pro",
+  "bugs": "https://github.com/vbenjs/vue-vben-admin/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbenjs/vue-vben-admin.git",
+    "directory": "apps/web-antd"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "vben",
+    "email": "ann.vben@gmail.com",
+    "url": "https://github.com/anncwb"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "pnpm vite build --mode production",
+    "build:analyze": "pnpm vite build --mode analyze",
+    "dev": "pnpm vite --mode development",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit --skipLibCheck"
+  },
+  "imports": {
+    "#/*": "./src/*"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "catalog:",
+    "@bpmn-io/properties-panel": "^3.23.0",
+    "@simonwep/pickr": "^1.9.1",
+    "@vben/access": "workspace:*",
+    "@vben/bpmn-grid-bg": "workspace:*",
+    "@vben/bpmn-i18n-zh": "workspace:*",
+    "@vben/common-ui": "workspace:*",
+    "@vben/constants": "workspace:*",
+    "@vben/fabric": "workspace:*",
+    "@vben/hooks": "workspace:*",
+    "@vben/icons": "workspace:*",
+    "@vben/layouts": "workspace:*",
+    "@vben/lazy": "workspace:*",
+    "@vben/locales": "workspace:*",
+    "@vben/plugins": "workspace:*",
+    "@vben/preferences": "workspace:*",
+    "@vben/request": "workspace:*",
+    "@vben/stores": "workspace:*",
+    "@vben/styles": "workspace:*",
+    "@vben/types": "workspace:*",
+    "@vben/utils": "workspace:*",
+    "@vueuse/core": "catalog:",
+    "animate.css": "catalog:",
+    "ant-design-vue": "catalog:",
+    "bpmn-js": "^18.1.2",
+    "bpmn-js-properties-panel": "^5.30.0",
+    "bpmn-js-token-simulation": "^0.36.0",
+    "dayjs": "catalog:",
+    "diagram-js-minimap": "^5.2.0",
+    "pinia": "catalog:",
+    "sm-crypto-v2": "catalog:",
+    "swiper": "^11.2.6",
+    "vue": "catalog:",
+    "vue-json-pretty": "catalog:",
+    "vue-router": "catalog:"
+  }
+}

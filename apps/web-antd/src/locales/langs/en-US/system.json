@@ -1,0 +1,17 @@
+{
+  "system": {
+    "title": "System",
+    "config": {
+      "title": "Parameter"
+    },
+    "cache": {
+      "title": "Cache"
+    },
+    "openAccess": {
+      "title": "Open"
+    },
+    "plugin": {
+      "title": "Dynamic"
+    }
+  }
+}

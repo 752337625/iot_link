@@ -1,0 +1,17 @@
+{
+  "system": {
+    "title": "Logs",
+    "logvis": {
+      "title": "visit"
+    },
+    "logop": {
+      "title": "operation"
+    },
+    "logex": {
+      "title": "abnormal"
+    },
+    "logdiff": {
+      "title": "difference"
+    }
+  }
+}
