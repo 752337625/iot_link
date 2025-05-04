@@ -52,7 +52,7 @@
     "ant-design-vue": "catalog:",
     "bpmn-js": "^18.1.2",
     "bpmn-js-properties-panel": "^5.30.0",
-    "bpmn-js-token-simulation": "^0.36.0",
+    "bpmn-js-token-simulation": "^0.38.1",
     "dayjs": "catalog:",
     "diagram-js-minimap": "^5.2.0",
     "pinia": "catalog:",
