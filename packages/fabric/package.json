@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "fabric": "^6.6.4",
+    "fabric": "^6.6.7",
     "gifler": "^0.1.0",
     "lit": "^3.2.1",
     "lodash-es": "^4.17.21",
